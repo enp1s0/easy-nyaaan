@@ -8,9 +8,9 @@
 * boostも使ってる
 
 ## 実行あれこれ
-* ./a.out startで開始
-* ./a.out keytestでデバイスからの入力をテストできる
-* ./a.out devicesでデバイス名検索
+* sudo ./a.out startで開始
+* sudo ./a.out keytestでデバイスからの入力をテストできる
+* sudo ./a.out devicesでデバイス名検索
 
 ## 設定あれこれ
 main.confに
