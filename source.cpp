@@ -196,10 +196,10 @@ int watch(WATCH_MODE mode,std::map<std::string,std::string> &config_map){
 
 int main(int argc,char** argv){
 	//ルートでの起動を確認
-	if( getuid() != 0 ){
+	/*if( getuid() != 0 ){
 		cerr("rootで実行してください");
 		return 1;
-	}
+	}*/
 	//引数解析
 	if(argc == 2){
 		std::string option = argv[1];
