@@ -11,6 +11,7 @@
 * ./easy-nyaaan startで開始
 * ./easy-nyaaan keytestでデバイスからの入力をテストできる
 * ./easy-nyaaan devicesでデバイス名検索  
+
 (udevの設定を適切に行なっていない場合はろrootで実行)
 
 ## 設定あれこれ
