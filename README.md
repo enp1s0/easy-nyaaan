@@ -3,14 +3,14 @@
 呟きたいよね?
 
 ## makeあれこれ
-* C++11くらいでどうぞ
+* C++11くらい
 * libcurl,liboauth使ってる
 * boostも使ってる
 
 ## 実行あれこれ
 * ./easy-nyaaan startで開始
 * ./easy-nyaaan keytestでデバイスからの入力をテストできる
-* ./easy-nyaaan devicesでデバイス名検索
+* ./easy-nyaaan devicesでデバイス名検索  
 (udevの設定を適切に行なっていない場合はろrootで実行)
 
 ## 設定あれこれ
