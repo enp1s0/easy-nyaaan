@@ -12,7 +12,7 @@
 * ./easy-nyaaan keytestでデバイスからの入力をテストできる
 * ./easy-nyaaan devicesでデバイス名検索  
 
-(udevの設定を適切に行なっていない場合はろrootで実行)
+(udevの設定を適切に行なっていない場合はrootで実行)
 
 ## 設定あれこれ
 main.confに
