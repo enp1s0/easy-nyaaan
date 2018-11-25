@@ -3,7 +3,7 @@
 呟きたいよね?
 
 ## デモ
-[Demo Movie Tweet](https://github.com/gonmoec/easy-nyaaan)
+[Demo Movie Tweet](https://twitter.com/gonmoec/status/834660172140158976)
 
 ## makeあれこれ
 * C++11くらい
